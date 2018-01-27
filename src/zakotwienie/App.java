@@ -145,7 +145,7 @@ public class App extends javax.swing.JFrame {
                 .addGroup(panelWarunkiPrzyczepnosciLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(rbtnMierne)
                     .addComponent(rbtnDobre))
-                .addGap(0, 1, Short.MAX_VALUE))
+                .addGap(0, 0, Short.MAX_VALUE))
         );
 
         panelKoniecPreta.setBorder(javax.swing.BorderFactory.createTitledBorder("Koniec pręta"));
@@ -175,7 +175,7 @@ public class App extends javax.swing.JFrame {
                 .addGroup(panelKoniecPretaLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(rbtnZagiety)
                     .addComponent(rbtnProsty))
-                .addGap(0, 1, Short.MAX_VALUE))
+                .addGap(0, 0, Short.MAX_VALUE))
         );
 
         panelRodzajPreta.setBorder(javax.swing.BorderFactory.createTitledBorder("Rodzaj pręta"));
@@ -205,7 +205,7 @@ public class App extends javax.swing.JFrame {
                 .addGroup(panelRodzajPretaLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(rbtnSciskany)
                     .addComponent(rbtnRozciagany))
-                .addGap(0, 1, Short.MAX_VALUE))
+                .addGap(0, 0, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout panelDaneWejscioweLayout = new javax.swing.GroupLayout(panelDaneWejsciowe);
@@ -272,7 +272,7 @@ public class App extends javax.swing.JFrame {
                 .addComponent(panelWarunkiPrzyczepnosci, javax.swing.GroupLayout.PREFERRED_SIZE, 46, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(panelKoniecPreta, javax.swing.GroupLayout.PREFERRED_SIZE, 46, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 7, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addComponent(panelRodzajPreta, javax.swing.GroupLayout.PREFERRED_SIZE, 46, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
 
@@ -328,7 +328,7 @@ public class App extends javax.swing.JFrame {
                         .addGroup(panelWynikiLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(txtFbd, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addComponent(txtLb, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 45, Short.MAX_VALUE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 57, Short.MAX_VALUE)
                         .addGroup(panelWynikiLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
                             .addComponent(jLabel12)
                             .addComponent(jLabel13))
@@ -380,7 +380,7 @@ public class App extends javax.swing.JFrame {
                     .addComponent(jLabel11)
                     .addComponent(txtAlfaa, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(jLabel18))
-                .addGap(0, 9, Short.MAX_VALUE))
+                .addGap(0, 8, Short.MAX_VALUE))
         );
 
         jLabel4.setForeground(new java.awt.Color(153, 153, 153));
